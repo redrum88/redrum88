@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Eimantas from UK. 
+### 🌱 I’m currently learning:
+###   * 100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu
+###   * The Complete 2023 Web Development Bootcamp by Angela Yu
+###   * Complete Machine Learning & Data Science Bootcamp 2023 by ZTM
+###   * Blender Environment Artist: Create 3D Worlds by GameDev.tv
+###   * Complete C# Unity Game Developer 3D
 
 <!--
 **redrum88/redrum88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
