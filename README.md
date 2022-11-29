@@ -4,6 +4,8 @@
     * [100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu](https://www.udemy.com/course/100-days-of-code/)
     * [The Complete 2023 Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
     * [Complete Machine Learning & Data Science Bootcamp 2023 by ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+    * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+    * [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
     * [Blender Environment Artist: Create 3D Worlds by GameDev.tv](https://www.udemy.com/course/blenderenvironment/)
     * [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/)
 
