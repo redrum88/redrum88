@@ -1,0 +1,151 @@
+a {
+    color: #93A8AC;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #E4DCDC;
+}
+
+body {
+    color: #40514E;
+
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #E4DCDC;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 6rem;
+    line-height: 2;
+    margin: 50px auto 0 auto
+}
+
+h2 {
+    color: #4C5760;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 4rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #4C5760;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: thick;
+    color: #4C5760;
+    margin: 100px auto;
+    width: 10%;
+}
+
+p {
+    line-height: 2;
+    font-size: 14px;
+}
+
+.bottom-cloud {
+    position: absolute;
+        bottom: 300px;
+        left: 300px;
+}
+
+.bottom-container {
+    background-color: #4C5760;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.btn {
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    -webkit-box-shadow: 0 1px 3px #666666;
+    -moz-box-shadow: 0 1px 3px #666666;
+    box-shadow: 0 1px 3px #666666;
+    font-family: 'Montserrat', sans-serif;
+    color: #E4DCDC;
+    font-size: 20px;
+    background: #4C5760;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #E4DCDC;
+    color: #4C5760;
+    text-decoration: none;
+}
+
+.credits {
+    color: #E4DCDC;
+    font-size: .75rem;
+}
+
+.contact-message {
+    margin: 40px auto 50px;
+    width: 40%;
+}
+
+.middle-container {
+
+    background-color: #93A8AC;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.mountain-pic {
+    position: relative;
+    top: 4px;
+}
+
+.github {
+    position:relative;
+    background
+}
+.profile-pic {
+    width: 15%
+}
+
+.skill-image1 {
+    float: left;
+    margin-right: 30px;
+    width: 25%
+}
+
+.skill-image2 {
+    float: right;
+    margin-left: 30px;
+    width: 25%
+}
+
+.skill-row {
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.text {
+    margin: auto;
+    width: 40%;
+}
+
+.top-cloud {
+    position: absolute;
+        right: 300px;
+        top: 50px;
+}
+
+.top-container {
+    background-color: #81bec9;
+    position: relative;
+    padding-top: 100px;
+}
