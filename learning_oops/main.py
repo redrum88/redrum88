@@ -15,7 +15,7 @@ available_sex_types = ["Male", "Female"]
 all_body_parts = [legs, head]
 
 
-class Human():
+class Human:
     sex = random.choice(available_sex_types)
     body = [all_body_parts]
 
