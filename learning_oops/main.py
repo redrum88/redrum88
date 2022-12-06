@@ -16,11 +16,10 @@ all_body_parts = [legs, head]
 
 
 class Human:
-    sex = random.choice(available_sex_types)
-    body = [all_body_parts]
-
+    
     def __init__(self):
         date_now = dt.date.today()
+        self.sex = self.choose_sex()
         self.born_date = f"{date_now.year}{date_now.month}{date_now.day}"
         self.user_name = self.choose_name()
         self.id_code = self.make_id()
