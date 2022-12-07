@@ -30,7 +30,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redrum88&show_icons=true&locale=en" alt="redrum88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redrum88&" alt="redrum88" /></p>
-
+<div> 
+  <a href="https://www.linkedin.com/in/eimantas_kulbe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/redrum_ldk" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: 2devyni3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Feed Snake](https://github.com/redrum88/redrum88/blob/output/github-contribution-grid-snake.svg)
 <!--
 **redrum88/redrum88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
