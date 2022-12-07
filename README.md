@@ -36,6 +36,8 @@
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: 2devyni3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
+  <a href='https://www.symptoma.es/'>Symptoma.es</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=1c510df82d04ec8fb00f742dfbc68851f1236b87'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/986454/t/1"></script>
 </br>
  
   ![Feed Snake](https://github.com/redrum88/redrum88/blob/output/github-contribution-grid-snake.svg)
