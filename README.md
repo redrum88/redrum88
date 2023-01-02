@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
     * [100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
     * [The Complete 2023 Web Development Bootcamp by Angela Yu](https://github.com/redrum88/Web-Development-Bootcamp)
-    * [Complete Machine Learning & Data Science Bootcamp 2023 by ZTM](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/)
+    * [Complete Machine Learning & Data Science Bootcamp 2023 by ZTM](https://github.com/redrum88/Machine_Learning_and_Data_Science)
     * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
     * [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
     * [Blender Environment Artist: Create 3D Worlds by GameDev.tv](https://www.udemy.com/course/blenderenvironment/)
