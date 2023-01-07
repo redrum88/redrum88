@@ -4,10 +4,10 @@
     * [100 Days of Code: The Complete Python Pro Bootcamp for 2023 by Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
     * [The Complete 2023 Web Development Bootcamp by Angela Yu](https://github.com/redrum88/Web-Development-Bootcamp)
     * [Complete Machine Learning & Data Science Bootcamp 2023 by ZTM](https://github.com/redrum88/Machine_Learning_and_Data_Science)
-    * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
+<!--    * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
     * [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
     * [Blender Environment Artist: Create 3D Worlds by GameDev.tv](https://www.udemy.com/course/blenderenvironment/)
-    * [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/)
+    * [Complete C# Unity Game Developer 3D](https://www.udemy.com/course/unitycourse2/) -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zqkKgKsGhb) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eimantas.kulbe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/redrum.ldk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eimantas-kulbe) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/2devyni3) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Unit293) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/r30rum) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/redrum_ldk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@redrum-ldk9420) 
