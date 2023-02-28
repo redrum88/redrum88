@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Eimantas</h1>
 
 - 🌱 I’m currently learning 
-    * 40% [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://github.com/redrum88/tensorflow)
+    * 50% [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://github.com/redrum88/tensorflow)
     * 70% [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Dr. Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
     * 15% [2023 Web Development Bootcamp - Dr. Angela Yu](https://github.com/redrum88/Web-Development-Bootcamp)
     
-##  ✅ [Machine Learning & Data Science Bootcamp 2023 by ZTM](https://github.com/redrum88/Machine_Learning_and_Data_Science)
+##  ✅ 100% [Machine Learning & Data Science Bootcamp 2023 by ZTM](https://github.com/redrum88/Machine_Learning_and_Data_Science)
 <!--    * [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
     * [The Complete Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
     * [Blender Environment Artist: Create 3D Worlds by GameDev.tv](https://www.udemy.com/course/blenderenvironment/)
