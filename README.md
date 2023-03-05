@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Eimantas</h1>
 
 - 🌱 I’m currently learning 
-    * 60% [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://github.com/redrum88/tensorflow)
+    * 65% [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://github.com/redrum88/tensorflow)
     * 70% [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Dr. Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
     * 15% [2023 Web Development Bootcamp - Dr. Angela Yu](https://github.com/redrum88/Web-Development-Bootcamp)
     
