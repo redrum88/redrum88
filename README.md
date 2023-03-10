@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning 
     * 99% [TensorFlow Developer Certificate in 2023: Zero to Mastery](https://github.com/redrum88/tensorflow)
-    * 70% [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Dr. Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
+    * 75% [100 Days of Code: The Complete Python Pro Bootcamp for 2023 - Dr. Angela Yu](https://github.com/redrum88/100-Days-of-Code-Python-Bootcamp) 
     * 15% [2023 Web Development Bootcamp - Dr. Angela Yu](https://github.com/redrum88/Web-Development-Bootcamp)
     
 ##  ✅ 100% [Machine Learning & Data Science Bootcamp 2023 by ZTM](https://github.com/redrum88/Machine_Learning_and_Data_Science)
